@@ -1,15 +1,32 @@
 🚀 Welcome to My GitHub Profile!
 
-👋 Hi, I'm Aditya Sharma – a passionate developer with expertise in JavaScript, Java, and web development. I love building innovative projects and solving real-world problems through code.
+👋 Hi, I'm Aditya Sharma, a Full-Stack Developer with expertise in JavaScript, Java, and scalable web applications. I enjoy building high-performance platforms, solving real-world challenges, and optimizing user experiences.
+
+
+
 🔥 About Me
 
-    💻 Tech Stack: JavaScript | React | Node.js | Mongodb | Express | java | 
-    🚀 Currently Learning: Advanced JavaScript & Full-Stack Development
-    🎯 Goals: Contribute to open-source & build scalable web applications
+    💻 Tech Stack: JavaScript | ReactJs | NodeJs | MongoDB | ExpressJs | Java | MySQL
+
+    🚀 Currently Learning: Cloud Computing & System Design
+
+    🎯 Goals: Contribute to open-source, enhance backend efficiency & build scalable web solutions
+
+
+
+🌟 Key Projects
+
+    ✅ ParkNGo – Working on a patented online parking management system with real-time tracking
+
+    ✅ AdTravelz – Built a platform with 100+ registered users for booking tours, optimizing user effort by 40%
+
+    ✅ Vastraz – Developed a responsive E-commerce platform, improving site speed by 35%
+
 
 📫 Let's Connect!
 
-🔗 LinkedIn: https://www.linkedin.com/in/aditya-sharma-4698491b4/
-🔗 E-mail: aditya4by4@gmail.com 
+    🔗 LinkedIn: https://www.linkedin.com/in/aditya-sharma-4698491b4/
 
-🌟 Feel free to explore my repositories and collaborate on exciting projects! 🚀
+    📧 E-mail: aditya4by4@gmail.com
+
+🚀 Explore my repositories & let’s build something amazing together! 💡
