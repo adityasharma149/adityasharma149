@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **ParkNGo**
 
-- 🌱 I’m currently learning **Building Things From Scratch**
+- 🌱 I’m currently **Building Things From Scratch**
 
-- 📫 How to reach me **sharmaditya.dev@gmail.com**
+- 📫 How to reach me **aditya4by4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
